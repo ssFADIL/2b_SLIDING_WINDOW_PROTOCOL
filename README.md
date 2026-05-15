@@ -10,6 +10,7 @@
 ## PROGRAM:
 ## SERVER
 '''
+
 import socket
 
 server = socket.socket()
@@ -31,9 +32,12 @@ while True:
     server.send(ack_msg.encode())
 
 server.close()
+
 '''
+
 ## CLIENT
 '''
+
 import socket
 import time
 
@@ -74,6 +78,7 @@ print("\nAll frames sent successfully")
 
 conn.close()
 client.close()
+
 '''
 ## OUPUT:
 
