@@ -77,6 +77,7 @@ client.close()
 ~~~
 ## OUTPUT:
 SERVER:
+
 <img width="434" height="125" alt="Screenshot 2026-05-15 111450" src="https://github.com/user-attachments/assets/c95a63fa-b2cf-4310-ab45-85912d4977c4" />
 
 CLIENT:
