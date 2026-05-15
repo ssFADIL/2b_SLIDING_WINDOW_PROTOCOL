@@ -76,6 +76,12 @@ conn.close()
 client.close()
 ~~~
 ## OUTPUT:
+SERVER:
+<img width="434" height="125" alt="Screenshot 2026-05-15 111450" src="https://github.com/user-attachments/assets/c95a63fa-b2cf-4310-ab45-85912d4977c4" />
+
+CLIENT:
+
+<img width="467" height="258" alt="Screenshot 2026-05-15 111432" src="https://github.com/user-attachments/assets/809d2763-8613-4a6a-9902-8138623a173d" />
 
 
 ## RESULT
